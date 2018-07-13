@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "MyPersistedModel": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
