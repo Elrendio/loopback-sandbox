@@ -1,0 +1,15 @@
+{
+  "name": "MyPersistedModel",
+  "base": "PersistedModel",
+  "mixins": {
+    "CustomId": {}
+  },
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
